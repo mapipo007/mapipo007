@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mapipo007
-- 👀 I’m interested in backend developement
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Kotlin and Android Jetpack Compose
 - 💞️ I’m looking to collaborate on similar projects
 - 📫 How to reach me: hatemkarim427@gmail.com
 - 😄 Pronouns: hatem karim
